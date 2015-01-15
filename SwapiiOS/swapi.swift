@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import SwiftyJSON
 
 public class Swapi {
     var baseURL = "http://swapi.co/a/"
